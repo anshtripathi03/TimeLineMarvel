@@ -109,6 +109,7 @@ html,body{
     color: rgb(189, 184, 184);
     border-bottom: 4px solid rgb(189, 184, 184);
     border-top: 4px solid rgb(189, 184, 184);
+    background-color: #fff;
 }
 .content{
     height: 80%;
